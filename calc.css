@@ -1,7 +1,11 @@
-.screen{
+#screen{
     height: 50px;
-    width: 350px;
+    width: 204px;
     background-color: darkgray;
+    font-size: 48px;
+    padding-left: 8px;
+    margin-bottom: 2px;
+    margin-left: 2px;
 }
 
 .buttons{
@@ -29,6 +33,7 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    opacity: 1;
 }
 
 .operator{
